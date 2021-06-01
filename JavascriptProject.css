@@ -1,0 +1,16 @@
+#square{
+width:200px;
+height:200px;
+background:red;
+display:none;
+position: relative;
+}
+
+body{font-family:sans-serif, ubuntu;}
+
+#alert{
+display:inline;}
+
+.font{font-weight: bold;
+font-style:Calibre;
+font-family:Sans-serif}
